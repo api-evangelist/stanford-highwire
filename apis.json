@@ -1,0 +1,48 @@
+{
+    "name": "Stanford HighWire",
+    "description": "Providing innovative technology and strategic content hosting solutions to influential scholarly publishers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1672-stanford-highwire.jpg",
+    "tags": [
+        "articles",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stanford-highwire\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stanford HighWire",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1672-stanford-highwire.jpg",
+            "humanURL": "http:\/\/sushi.highwire.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stanford-highwire-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/highwire-press"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/highwire"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/highwirepress"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sushi.highwire.org\/"
+        }
+    ]
+}
